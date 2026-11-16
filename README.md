@@ -1,4 +1,4 @@
-# ZIP Automação — Agent Skills (teste)
+# ZIP Automação — Agent Skills
 
 Skills para agentes de IA da [ZIP Automação](https://www.zipautomacao.com.br), no formato [Agent Skills](https://agentskills.io/specification).
 
